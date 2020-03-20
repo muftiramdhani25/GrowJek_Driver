@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "902435584979",
+    "firebase_url": "https://driver-ojek-online.firebaseio.com",
+    "project_id": "driver-ojek-online",
+    "storage_bucket": "driver-ojek-online.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902435584979:android:f5970f8c383a6a23024d26",
+        "android_client_info": {
+          "package_name": "net.growdev.driverojekonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902435584979-tn25dk7fo5dsee1eakm4gucdsg33t38q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.growdev.driverojekonline",
+            "certificate_hash": "6af5e57f48c897d154c0d6e7f9eea857a83d297a"
+          }
+        },
+        {
+          "client_id": "902435584979-m9vds5ek69eg2mhj4h3c9maf81vdgf6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqa8RzYujiylMjuFTYibjTmukLkLVTz3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902435584979-m9vds5ek69eg2mhj4h3c9maf81vdgf6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
